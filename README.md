@@ -1,2 +1,1 @@
-# problemSolvingDart
- this code include basic and oop project in dart
+A simple command-line application.
